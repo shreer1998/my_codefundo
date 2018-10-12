@@ -8,5 +8,7 @@ IDEA:
 Focusing our efforts to the Indian-subcontinent to improve the results by cropping out the data provided by the HURSAT to our specifics for this mini-project.
 We plan to achieve K-Means clustering by grey-scaling the different stages of each cyclone and giving it a score based on its severity.   This data becomes extremely useful as it becomes a measure to find the distance(likeliness) of the test sample to our data and hence forming a cluster.
 The movement of the sample data through different clusters gives us a fair idea on how the cyclone is going to develop, which area is under threat and hence a chance for us to help save both life and property.
+
+The final application will be working with live satellite images. 
  
 
