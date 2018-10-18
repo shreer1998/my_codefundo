@@ -13,5 +13,7 @@ We plan to convolve through three main features that will help us single out a c
 
 The above information along with modest domain knowledge will give us a fair idea on how the cyclone is going to develop, which area is under threat and hence a chance for us to help save both life and property.
 
+We have decided to pivot from the orginal idea of using K-Means clustering and towards CNN because image classification and prediction has shown to be more precisely done by CNN rather than a model fit by K-Means, afterall lives are at stake!
+
 The final application will be working with live satellite images. 
  
